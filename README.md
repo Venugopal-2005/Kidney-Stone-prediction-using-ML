@@ -104,14 +104,7 @@ Ensemble-based approaches, particularly **Random Forest**, show superior predict
 🎓 B.Tech – Computer Science & Engineering
 🏫 SRM Institute of Science and Technology
 
-### 🎓 Mentor
 
-**Dr. Saravanan P**
-Assistant Professor
-*Artificial Intelligence, Crime & Health Informatics,
-Disease Prediction, Sustainability, FHIR, RAG, Agentic AI*
-
-📧 [saravanp9@srmist.edu.in](mailto:saravanp9@srmist.edu.in)
 
 
 ## 📄 License
